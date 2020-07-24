@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: http://basaranbadur.me
+title: BasaranBadur.me
+external_url: http://http://basaranbadur.me
 ---
 This part is under construction!
 
