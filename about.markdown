@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: http://basaranbadur.me
 ---
 This part is under construction!
 
