@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BasaranBadur.me
-external_url: http://http://basaranbadur.me
+external_url: http://basaranbadur.me
 ---
 This part is under construction!
 
